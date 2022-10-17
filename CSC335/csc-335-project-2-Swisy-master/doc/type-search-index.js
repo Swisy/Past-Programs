@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Mastermind"},{"p":"controller","l":"MastermindController"},{"p":"controller","l":"MastermindIllegalColorException"},{"p":"controller","l":"MastermindIllegalLengthException"},{"p":"model","l":"MastermindModel"}];updateSearchResults();
