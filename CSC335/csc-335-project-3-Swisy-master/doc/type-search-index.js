@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"customMap","l":"ListMap"},{"p":"<Unnamed>","l":"Madlibs"},{"p":"controller","l":"MadlibsController"},{"p":"model","l":"MadlibsModel"}];updateSearchResults();
